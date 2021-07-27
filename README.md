@@ -15,6 +15,7 @@ Also known as Patrik Svensson. I'm an educated Technical Artist. I got my Bachel
  ### - - - - - Ongoing projects 🔧 - - - - -
 - 3D Project in DirectX as a showcase with all of my work and all the different techniques I learned.
 It's going to be possible to switch between scenes, to see all kind of technical stuff. 
+Respository: https://github.com/Pudzz/DirectX11-Showcase
 
 <!---
 Pudzz/Pudzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
