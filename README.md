@@ -11,6 +11,11 @@ Also known as Patrik Svensson. I'm an educated Technical Artist. I got my Bachel
 - More scripting in Autodesk Maya with various Python modules and the C++ API. 
 
 📫 My mail, if you want to reach me: padsvensson@live.se
+
+#### Ongoing projects 🔧 
+- 3D Project in DirectX, as a showcase with all of my work and all various techniques. 
+It's going to be possible to switch between scenes, to see all kind of technical stuff. 
+
 <!---
 Pudzz/Pudzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
