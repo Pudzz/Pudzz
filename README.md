@@ -1,6 +1,7 @@
 ### Hi, I'm @Pudzz 👋 
 Also known as Patrik Svensson. I'm an educated Technical Artist. I got my Bachelor's degree in computer science with the main focus in game development in June 2021. On this page you will find several school projects I have done during my education, as well as my personal projects.
 
+📫 My mail, if you want to reach me: padsvensson@live.se
 
 ####  Interests 👀
 - Game programming
@@ -10,10 +11,9 @@ Also known as Patrik Svensson. I'm an educated Technical Artist. I got my Bachel
 - More about C++, C# and C
 - More scripting in Autodesk Maya with various Python modules and the C++ API. 
 
-📫 My mail, if you want to reach me: padsvensson@live.se
 
-#### Ongoing projects 🔧 
-- 3D Project in DirectX, as a showcase with all of my work and all various techniques. 
+ ### - - - - - Ongoing projects 🔧 - - - - -
+- 3D Project in DirectX as a showcase with all of my work and all the different techniques I learned.
 It's going to be possible to switch between scenes, to see all kind of technical stuff. 
 
 <!---
