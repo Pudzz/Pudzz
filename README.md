@@ -4,13 +4,13 @@ Also known as Patrik Svensson. I'm an educated Technical Artist. I got my Bachel
 📫 My mail, if you want to reach me: padsvensson@live.se
 
 ####  Interests 👀
-- Game programming
+- Computer graphics
+- Game engines
 - Scripting tools in Autodesk Maya | Maininterest of category: Animation
 
 #### Currently learning 🌱 
 - More about C++, C# and C
-- More scripting in Autodesk Maya with various Python modules and the C++ API. 
-
+- OpenGL
 
  ### - - - - - Ongoing projects 🔧 - - - - -
 - 3D Project in DirectX as a showcase with all of my work and all the different techniques I learned.
