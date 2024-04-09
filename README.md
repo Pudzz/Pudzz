@@ -8,7 +8,6 @@ On this page you will find several school projects I have done during my educati
 ####  Interests 👀
 - Computer graphics
 - Game engines
-- Prototyping/ game development
 - C++, C#, Python
 
 #### Currently learning 🌱 
