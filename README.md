@@ -1,5 +1,5 @@
-### Hi, I'm @Pudzz 👋 
-Also known as Patrik Svensson. I'm an educated Tech Art enthusiast, specializing in Unreal and Unity development, with a strong command of C++, C#, and Python programming languages. 
+### Hi, Patrik here
+- A passionate Tech Art enthusiast with expertise in developing tools and shaders in Unreal Engine and Unity. I focus on creating efficient workflows, leveraging my skills in C++, C#, and Python.
 
 📫 My mail, if you want to reach me: padsvensson@live.se
 
